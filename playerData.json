@@ -1,0 +1,68 @@
+[
+  [
+    "748607090875957248",
+    {
+      "bread": 1000,
+      "streetCred": 0,
+      "inventory": [],
+      "trapHouseLevel": 1,
+      "multiplier": 1,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastLick": 0,
+      "lastScavenge": 0,
+      "lastHustle": 0,
+      "roastsGiven": 0,
+      "roastsReceived": 0,
+      "heat": 0,
+      "respect": 50,
+      "casesWon": 0,
+      "casesLost": 0,
+      "drillsCompleted": 0,
+      "achievements": [],
+      "stashedBread": 0,
+      "stashCapacity": 5000,
+      "lastMonthly": 0,
+      "hood": {
+        "name": null,
+        "joined": 0,
+        "loyalty": 0,
+        "lastLoyaltyUpdate": 0
+      }
+    }
+  ],
+  [
+    "1167431509758726227",
+    {
+      "bread": 1000,
+      "streetCred": 0,
+      "inventory": [],
+      "trapHouseLevel": 1,
+      "multiplier": 1,
+      "lastDaily": 0,
+      "lastWork": 0,
+      "lastRob": 0,
+      "lastLick": 0,
+      "lastScavenge": 0,
+      "lastHustle": 0,
+      "roastsGiven": 0,
+      "roastsReceived": 0,
+      "heat": 0,
+      "respect": 50,
+      "casesWon": 0,
+      "casesLost": 0,
+      "drillsCompleted": 0,
+      "achievements": [],
+      "stashedBread": 0,
+      "stashCapacity": 5000,
+      "lastMonthly": 0,
+      "hood": {
+        "name": null,
+        "joined": 0,
+        "loyalty": 0,
+        "lastLoyaltyUpdate": 0
+      }
+    }
+  ]
+]
