@@ -11,6 +11,8 @@ from itertools import cycle
 import os
 import asyncio
 import json
+from dotenv import load_dotenv
+load_dotenv()
 
 PREFIX_FILE = "cogs/JsonFiles/prefixes.json"
 DEFAULT_PREFIX = "s?"
